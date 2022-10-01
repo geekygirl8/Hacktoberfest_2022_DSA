@@ -1,3 +1,5 @@
+# github username: Shashwat49
+
 n = int(input("Enter a number: "))
 
 if n > 1:

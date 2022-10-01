@@ -26,4 +26,5 @@ var isValid = function(s) {
             if (x !== y) return false;
         }
     }
-    return true && isClosing && arr.length==0
+    return true && isClosing && arr.length === 0
+}

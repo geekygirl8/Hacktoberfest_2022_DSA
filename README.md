@@ -27,7 +27,7 @@ In each respective folder on any topic, don't forget to read the rules below to 
 <br/>
 <h3>🛡 Rules</h3>
 <ul>
-  <li>⚔️ Add link of the problem as comments in the code if contributing solution of any problems from Leetcode, GeekForGeeks, Codechef or Codeforces, etc.</li>
+  <li>⚔️ Add link of the problem as comments in the code if contributing solution of any problems from Leetcode, GeekForGeeks, Codechef or Codeforces, etc. No need to add entire main function.</li>
   <li>⚔️ Add the proper extension to your code file. Examples: .c, .js, .cpp , .py or .java.</li>
   <li>⚔️ Give your file a proper name related to your program in snake_case.</li>
   <li>⚔️ Put your files in correct folder like .cpp file in  c++ folder or .py file in python folder.</li>

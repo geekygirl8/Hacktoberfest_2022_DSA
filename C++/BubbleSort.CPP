@@ -1,3 +1,8 @@
+
+// Contributer - Ajit Varpe 
+// Follow  me on Github https://github.com/AjitVarpe
+
+
 #include<bits/stdc++.h>
 #include<stdio.h>
 using namespace std;

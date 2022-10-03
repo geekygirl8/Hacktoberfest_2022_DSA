@@ -1,5 +1,5 @@
 // Name: Dhruv Arora
-// Github id: lord_benjamin
+// Github id: lord-benjamin
 // Problem Link: https://codeforces.com/contest/1735/problem/A
 
 #include <bits/stdc++.h>

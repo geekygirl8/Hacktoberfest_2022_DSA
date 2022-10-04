@@ -1,22 +1,18 @@
-package com.company;
 //Problem link: https://leetcode.com/problems/rotate-list/
 //Name: Sudhi Krishna N A, Id: Sudhi27Krishna
 //Github account link: https://github.com/Sudhi27Krishna
 
 
-public class rotate_list {
-    public static void main(String[] args) {
-
-    }
+class Solution {
     public ListNode rotateRight(ListNode head, int k) {
         if(head == null || head.next == null){
             return head;
         }
         int length = 0;
-        ListNode dummy = head;
-        for(int i=0;dummy != null;i++){
+        ListNode l = head;
+        for(int i=0;l != null;i++){
             length++;
-            dummy = dummy.next;
+            l = l.next;
         }
         ListNode newHead = head;
         ListNode temp = head;

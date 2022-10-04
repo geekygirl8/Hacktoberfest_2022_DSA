@@ -28,14 +28,15 @@ In each respective folder on any topic, don't forget to read the rules below to 
 <h3>🛡 Rules</h3>
 <ul>
   <li>⚔️ Add link of the problem as comments in the code if contributing solution of any problems from Leetcode, GeekForGeeks, Codechef or Codeforces, etc. No need to add entire main function.</li>
+   <li>⚔️ Dont forget to star this repository and follow me for successful merge.</li>
+    <li>⚔️ Please put your Name and Github id as comments at top of the code file to get accepted.</li>
   <li>⚔️ Add the proper extension to your code file. Examples: .c, .js, .cpp , .py or .java.</li>
   <li>⚔️ Give your file a proper name related to your program in snake_case.</li>
   <li>⚔️ Put your files in correct folder like .cpp file in  c++ folder or .py file in python folder.</li>
   <li>⚔️ If folder is not present for your language create new with name of your programming language like C++ , Python etc</li>
   <li>⚔️ Make repo well maintained if topic not present in which you want to contribute create new folder for it in their paricular section or language</li>
-  <li>⚔️ Please put your GitHub name and id in the file in form of comments at top to get accepted.</li>
-  <li>⚔️ Dont forget to star this repository and watch for more updates!</li>
-</ul>
+ 
+ </ul>
 
 <h3>🛡 Notice</h3>
 <p>⚔️ All contributors who have followed above rules correctly will meet merge pull request successfully.</p>

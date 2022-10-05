@@ -1,3 +1,7 @@
+//Name - Garvit Agrawal
+//Github ID - Garvit74
+//Question Link - https://leetcode.com/problems/find-original-array-from-doubled-array/
+
 class Solution {
 public:
     vector<int> findOriginalArray(vector<int>& c) {

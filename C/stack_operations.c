@@ -1,3 +1,6 @@
+//Github name: tussharpaul13
+//Github id: https://github.com/tussharpaul13
+// Question from HackerEarth: https://www.hackerearth.com/practice/data-structures/stacks/basics-of-stacks/practice-problems/algorithm/stakth-1-e6a76632/
 //Operations performed on stack--PUSH,POP,Traverse
 #include<stdio.h>
 #include<conio.h>

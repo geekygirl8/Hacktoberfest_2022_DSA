@@ -1,7 +1,8 @@
 #include  <iostream>
 using namespace std;
-
-// shell sort implementation
+//Name: Nishant Rathore
+//Username: RinzlerN26
+// shell sort implementation 
 int shellSort(int arr[], int N)
 {
     for (int gap = N/2; gap > 0; gap /= 2)

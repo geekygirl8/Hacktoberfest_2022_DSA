@@ -37,6 +37,7 @@ In each respective folder on any topic, don't forget to read the rules below to 
   <li>⚔️ Make repo well maintained if topic not present in which you want to contribute create new folder for it in their paricular section or language</li>
  
  </ul>
+ 
 
 <h3>🛡 Notice</h3>
 <p>⚔️ All contributors who have followed above rules correctly will meet merge pull request successfully.</p>
@@ -44,3 +45,15 @@ In each respective folder on any topic, don't forget to read the rules below to 
 <p>⚔️ Always make more than 4 total pull requests for hacktoberfest for safer side.</p>
 <br/>
 <h2>🖥️ Happy Hacking...</h2>
+
+ Thanks a lot for spending your time helping all-round-calculator grow. Thanks a lot! Keep rocking 🍻
+
+<a href="https://github.com/Ageekygirl8/Hacktoberfest_2022_DSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=geekygirl8/Hacktoberfest_2022_DSA" />
+</a>
+
+
+
+<p align="center">
+<img src="https://github.com/geekygirl8/Hacktoberfest_2022_DSA/blob/master/gitartwork.svg" />
+</p>
